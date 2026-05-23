@@ -6,3 +6,8 @@
 
 #define WS2812_DI_PIN       D3
 #define RGBLIGHT_LED_COUNT  14
+
+// #define LED_NUM_LOCK_PIN     B5
+#define LED_CAPS_LOCK_PIN    B5
+// #define LED_SCROLL_LOCK_PIN  B5
+// #define LED_PIN_ON_STATE     0
