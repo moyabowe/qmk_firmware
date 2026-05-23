@@ -1,0 +1,5 @@
+#define ENCODER_A_PINS { B2 }
+#define ENCODER_B_PINS { B6 }
+
+// #define ENCODER_DIRECTION_FLIP
+#define ENCODER_RESOLUTION 2
