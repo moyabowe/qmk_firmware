@@ -3,3 +3,6 @@
 
 // #define ENCODER_DIRECTION_FLIP
 #define ENCODER_RESOLUTION 2
+
+#define WS2812_DI_PIN       D3
+#define RGBLIGHT_LED_COUNT  14
